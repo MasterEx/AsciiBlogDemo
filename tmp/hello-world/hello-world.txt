@@ -1,0 +1,12 @@
+:pagetitle: Hello World!
+:description: This is the description
+:keywords: asciiblog, demo, blog, website, hello world
+
+Hello World
+-----------
+
+This page has been created with AsciiBlog.
+
+TIP: You can browse to the post archive by clicking the archive link.
+
+The original text was written in AsciiDoc markdown.
