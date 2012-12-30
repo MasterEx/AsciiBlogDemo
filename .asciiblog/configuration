@@ -2,5 +2,5 @@ images-dir=/etc/asciidoc/images
 javascripts-dir=/etc/asciidoc/javascripts
 layouts-dir=/home/periklis/Workspace/git_now/AsciiBlogDemo/.asciiblog/layouts
 styles-dir=/home/periklis/Workspace/git_now/AsciiBlogDemo/.asciiblog/styles
-site-url=http:\\example.com
-site-description=Just a site
+site-url=http://masterex.github.com/AsciiBlogDemo
+site-description=This is an AsciiBlog Demo
