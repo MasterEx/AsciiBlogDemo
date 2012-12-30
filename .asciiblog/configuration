@@ -1,4 +1,4 @@
-images-dir=/etc/asciidoc/images
+images-dir=/home/periklis/Workspace/git_now/AsciiBlogDemo/.asciiblog/images
 javascripts-dir=/etc/asciidoc/javascripts
 layouts-dir=/home/periklis/Workspace/git_now/AsciiBlogDemo/.asciiblog/layouts
 styles-dir=/home/periklis/Workspace/git_now/AsciiBlogDemo/.asciiblog/styles
