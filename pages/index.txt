@@ -1,12 +1,16 @@
-Welcome Stranger!
-=================
+Welcome to AsciiBlog Demo
+=========================
 
 
 What's that?
 ************************************************************************
-This is my blog!
+This is an AsciiBlog instance!
 
 This webpage was created with http://www.methods.co.nz/asciidoc/index.html[asciidoc]!
+
+This theme is the default AsciiBlog theme.
+
+Soon you'll be able to browse some more themes!
 
 'Master_ex'
 ************************************************************************
